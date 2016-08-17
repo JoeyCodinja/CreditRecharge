@@ -4,8 +4,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="credit_amount_label">Credit Amount</string>
-    <string name="credit_recipient_label">TO: </string>
+    <string name="credit_recipient_label">To:</string>
     <string name="credit_vendor1">Digicel</string>
     <string name="credit_vendor2">Flow</string>
     <string name="credit_vendor_label">Choose a Vendor:</string>
+    <string name="check_permission">Action denied. Please check permissions</string>
+    <string name="carrier_no_support">Sorry. Your carrier isn\'t supported at this point in time</string>
 </resources>
